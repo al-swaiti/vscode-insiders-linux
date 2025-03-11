@@ -1,6 +1,6 @@
 # 🚀 VS Code Insiders Cross-Distribution Linux Installer
 
-[![VS Code Insiders Installer Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=i9ibZTtrQn4)
+[![VS Code Insiders Installer Demo](https://img.youtube.com/vi/i9ibZTtrQn4/0.jpg)](https://www.youtube.com/watch?v=i9ibZTtrQn4)
 
 ## Overview
 
